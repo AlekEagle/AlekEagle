@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3715" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3667" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.punctuation{color:#8a93a8}.token.constant,.token.keyword{color:#b44418}.token.boolean,.token.string{color:#2777aa}.token.property{color:#48428a}.token.operator{color:#106cbc}.token.trimmed{font-style:italic;color:#77777760}.space{margin-left:7px}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.audits{margin-top:8px}.audit.text{min-width:42px}.audit svg{margin:0}.audit.high{fill:#18b663}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2727 Commits
+                            2736 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -228,11 +228,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="172.07920792079207" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="172.07920792079207" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="172.07920792079207" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="172.07920792079207" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="172.07920792079207" y="0" width="47.92079207920792" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="172.54901960784312" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="172.54901960784312" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="172.54901960784312" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="172.54901960784312" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="172.54901960784312" y="0" width="47.450980392156865" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -243,7 +243,7 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">158 <small>open</small></span>
+                                <span class="no-wrap">160 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.7042689667552" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="309.7042689667552" y="0" width="59.46659613554741" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="369.17086510230257" y="0" width="26.066157150092216" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="395.2370222523948" y="0" width="21.474994306532807" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="416.7120165589276" y="0" width="21.395311760111014" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="438.10732831903863" y="0" width="14.549056458543543" height="8" fill="#df7900"/>
-                    <rect mask="url(#languages-bar)" x="452.65638477758216" y="0" width="5.488098018038002" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="458.14448279562015" y="0" width="1.8555172043798036" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="309.3013873142329" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="309.3013873142329" y="0" width="59.38932126728158" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="368.69070858151446" y="0" width="27.531614469974024" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="396.2223230514885" y="0" width="21.36750926248696" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="417.5898323139755" y="0" width="20.545944805399436" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="438.1357771193749" y="0" width="14.530150442489363" height="8" fill="#df7900"/>
+                    <rect mask="url(#languages-bar)" x="452.66592756186424" y="0" width="5.480966416787323" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="458.1468939786516" y="0" width="1.8531060213484658" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -357,15 +357,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Vue
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C++
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Vue
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -433,7 +433,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        7
+                                        8
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -486,7 +486,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        0
+                                        1
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -804,19 +804,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.92 s</div>
+                        <div class="audit text">0.32 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.96 s</div>
+                        <div class="audit text">0.34 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.01</div>
+                        <div class="audit text">0</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -846,19 +846,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.92 s</div>
+                        <div class="audit text">0.32 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.96 s</div>
+                        <div class="audit text">0.34 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.01</div>
+                        <div class="audit text">0</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -876,12 +876,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 13 commits)</small>
+                    <small class="h-details">(computed from last 21 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 37.0 characters per line of code written</li>
+                        <li>Has approximately 34.8 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -908,7 +908,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 2 days
+                            Current streak 3 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -932,7 +932,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.32
+                            Average per day at ~1.34
                         </div>
                     </section>
                 </div>
@@ -2855,15 +2855,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-5.1, 8.777777777777779)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2222222222222223 0,1.2222222222222223 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2222222222222223 1.7,2.2222222222222223 z"/>
                             </g>
-                            <g transform="translate(-6.8, 10)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-6.8, 9.333333333333332)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2878,14 +2878,19 @@
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
                             <g transform="translate(0, 5.777777777777779)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2222222222222223 0,1.2222222222222223 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2222222222222223 1.7,2.2222222222222223 z"/>
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2222222222222223 0,1.2222222222222223 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2222222222222223 1.7,2.2222222222222223 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.777777777777779)">
+                            <g transform="translate(-1.7, 6.555555555555555)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4444444444444446 0,1.4444444444444444 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4444444444444444 1.7,2.4444444444444446 z"/>
+                            </g>
+                            <g transform="translate(-3.4, 7.111111111111111)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2222222222222223 0,1.2222222222222223 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2222222222222223 1.7,2.2222222222222223 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.888888888888889 0,1.8888888888888888 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8888888888888888 1.7,2.888888888888889 z"/>
                             </g>
                         </g>
                     </g>
@@ -2976,55 +2981,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#622 Cannot use 'import.meta' outside of a module in development with script inject register method</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">AlekEagle/cumulonimbus-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by AlekEagle in <span class="repo">vite-pwa/vite-plugin-pwa</span></div>
-                                    <div class="comment">Looks like my issue was partially because my plugin version was out of date, I successfully solved the issue, sorry for troubles!</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#622 Cannot use 'import.meta' outside of a module in development with script inject register method</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">vite-pwa/vite-plugin-pwa</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#622 Cannot use 'import.meta' outside of a module in development with script inject register method</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AlekEagle in <span class="repo">vite-pwa/vite-plugin-pwa</span></div>
-                                    <div class="comment">
-                                        I'm not using dynamic imports anywhere, the error is specifically at the use of the
-                                        <code>import.meta</code>
-                                        statement according to the error, and the issue is that despite me explicitly declaring that the service worker should be registered as a module instead of a classic service worker, and that this only happens when using
-                                        <code>injectRegister: 'script'</code>
-                                        . I have gone ahead and edited my earlier comment to be a little more specific.
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e0f6c75</div>
+                                        <div class="message">change some stuff</div>
                                     </div>
                                 </div>
                             </section>
@@ -3033,80 +3001,18 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#622 Cannot use 'import.meta' outside of a module in development with script inject register method</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">AlekEagle/cumulonimbus-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by AlekEagle in <span class="repo">vite-pwa/vite-plugin-pwa</span></div>
-                                    <div class="comment">
-                                        Yes, I am using a custom sw with injectManifest.
-The Error:
-                                        <code class="language-multiline" xml:space="preserve">Uncaught SyntaxError: Cannot use 'import.meta' outside a module (at dev-sw.js?dev-sw<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />8)
-
-<span class="token trimmed">(1 more line was trimmed)</span></code>
-                                        The line in question:
-                                        <code class="language-js">
-                                            <span class="token keyword module">import</span>
-                                            <span class="token punctuation">.</span>
-                                            <span class="token property-access">meta</span>
-                                            <span class="token punctuation">.</span>
-                                            <span class="token property-access">env</span>
-                                            <span class="token operator">=</span>
-                                            <span class="token punctuation">{</span>
-                                            <span class="token string-property property">"BASE_URL"</span>
-                                            <span class="token operator">:</span>
-                                            <span class="token string">"/"</span>
-                                            <span class="token punctuation">,</span>
-                                            <span class="token string-property property">"MODE"</span>
-                                            <span class="token operator">:</span>
-                                            <span class="token string">"ptb"</span>
-                                            <span class="token punctuation">,</span>
-                                            <span class="token string-property property">"DEV"</span>
-                                            <span class="token operator">:</span>
-                                            <span class="token boolean">true</span>
-                                            <span class="token punctuation">,</span>
-                                            <span class="token string-property property">"PROD"</span>
-                                            <span class="token operator">:</span>
-                                            <span class="token boolean">false</span>
-                                            <span class="token punctuation">,</span>
-                                            <span class="token string-property property">"SSR"</span>
-                                            <span class="token operator">:</span>
-                                            <span class="token boolean">false</span>
-                                            <span class="token punctuation">}</span>
-                                            <span class="token punctuation">;</span>
-                                            <span class="token keyword module">import</span>
-                                            <span class="token punctuation">.</span>
-                                            <span class="token property-access">meta</span>
-                                            <span class="token punctuation">.</span>
-                                            <span class="token property-access">env</span>
-                                            <span class="token punctuation">.</span>
-                                            <span class="token constant">LEGACY</span>
-                                            <span class="token operator">=</span>
-                                            <span class="token boolean">false</span>
-                                            <span class="token punctuation">;</span>
-                                            <span class="token keyword module">import</span>
-                                            <span class="token imports">
-                                                <span class="token punctuation">{</span>
-                                                <span class="token maybe-class-name">Router</span>
-                                                <span class="token punctuation">}</span>
-                                            </span>
-                                            <span class="token keyword module">from</span>
-                                            <span class="token string">"/src/utils/swRouter.ts"</span>
-                                            <span class="token punctuation">;</span>
-                                        </code>
-                                        My config:
-                                        <code class="language-multiline language-ts" xml:space="preserve"><span class="token comment">// ...</span>
-      injectRegister<span class="token operator">:</span> <span class="token string">'script'</span><span class="token punctuation">,</span>
-<span class="token trimmed">(6 more lines were trimmed)</span></code>
-                                        And when I switch the
-                                        <code>injectRegister</code>
-                                        method to
-                                        <code>'inline'</code>
-                                        it no longer gives me errors and successfully registers the service worker.
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e0f6c75</div>
+                                        <div class="message">change some stuff</div>
                                     </div>
                                 </div>
                             </section>
@@ -3115,16 +3021,67 @@ The Error:
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#622 Cannot use 'import.meta' outside of a module in development mode</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">AlekEagle/cumulonimbus-frontend</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">vite-pwa/vite-plugin-pwa</span></div>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3f234</div>
+                                        <div class="message">Fixed small bugs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da8e8e9</div>
+                                        <div class="message">asdf</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d099520</div>
+                                        <div class="message">Change behavior of number input field in form component</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AlekEagle/cumulonimbus-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3b3f234</div>
+                                        <div class="message">Fixed small bugs</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AlekEagle/cumulonimbus-frontend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#da8e8e9</div>
+                                        <div class="message">asdf</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3221,7 +3178,7 @@ The Error:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.782340862423005 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.8672142368241 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3282,7 +3239,7 @@ The Error:
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 344k out of 125m users</span>
+                                    <span class="gh">ranked 344k out of 126m users</span>
                                 </div>
                                 <div class="text">Published 70 public repositories</div>
                             </div>
@@ -3465,7 +3422,7 @@ The Error:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 160k out of 125m users</span>
+                                    <span class="gh">ranked 159k out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 68 users</div>
                             </div>
@@ -3552,7 +3509,7 @@ The Error:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 985k out of 69m repositories</span>
+                                    <span class="gh">ranked 985k out of 64.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 11 times</div>
                             </div>
@@ -3590,7 +3547,7 @@ The Error:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 701k out of 69m repositories</span>
+                                    <span class="gh">ranked 701k out of 64.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 38 stars</div>
                             </div>
@@ -3785,7 +3742,7 @@ The Error:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2023, 15:32:03 (timezone America/Anchorage) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 15:31:40 (timezone America/Anchorage) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
